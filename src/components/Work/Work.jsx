@@ -37,6 +37,7 @@ const Work = () => {
 
   return (
     <div className="work" id="work">
+    
       <div
         className="slider"
         style={{ transform: `translateX(-${currentSlide * 100}vw)` }}
